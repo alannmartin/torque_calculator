@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/com.github.alannmartin.torque_calculator.desktop.in
+data/com.github.alannmartin.torque_calculator.metainfo.xml.in
+data/com.github.alannmartin.torque_calculator.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/alannmartin/torque_calculator">
+    <file preprocess="xml-stripblanks">notebook.ui</file>
+    <file preprocess="xml-stripblanks">gtk/help-overlay.ui</file>
+    <file>SimpleLiftingHoist.png</file>
+  </gresource>
+</gresources>

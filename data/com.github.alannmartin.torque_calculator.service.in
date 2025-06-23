@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.github.alannmartin.torque_calculator
+Exec=@bindir@/torque_calculator --gapplication-service

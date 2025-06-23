@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=torque_calculator
+Exec=torque_calculator
+Icon=com.github.alannmartin.torque_calculator
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
